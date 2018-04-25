@@ -3,3 +3,9 @@
 config/*
 *.egg-info
 .idea
+__pycache__
+.venv*
+.pytest_cache
+.coverage
+.DS_Store
+*.pyc
